@@ -1,8 +1,6 @@
 README.md
 # PIM JIT + Anti-Sticky-Admin Bot (Entra + Graph)
 Enables PIM for JIT privileged access and runs a bot to detect permanent privileged assignments, stale eligibilities, and long activations. Produces JSON/CSV evidence and optional GitHub Issues. Includes a compliance pack.
-# PIM JIT + Anti-Sticky-Admin Bot (Entra ID + Microsoft Graph)
-
 *A small, practical project to kill “always-on” admin and prove it with evidence.*
 
 ## What this is (in plain English)
